@@ -1,0 +1,3 @@
+[submodule "nextjs-similarity-api"]
+	path = nextjs-similarity-api
+	url = https://github.com/da8ah/nextjs-similarity-api.git
